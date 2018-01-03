@@ -1,0 +1,74 @@
+body {
+	font-family: "Montserrat";
+	font-size: 16px;
+	color: white;
+	letter-spacing: 0.5px;
+	margin: 0;
+	background-size: cover;
+	display: flex;
+}
+
+h1 {
+	font-size: 3.6rem;
+	line-height: 4rem;
+	font-weight: 500;
+	margin: 0 0 2rem 0;
+}
+
+h2 {
+	font-size: 1.5rem;
+	line-height: 2.2rem;
+	font-weight: 400;
+	margin: 0;
+}
+
+h3 {
+	font-size: 1.2rem;
+	font-weight: 500;
+	margin: 0;
+}
+
+p {
+	font-size: 1.2rem;
+	font-weight: 400;
+	margin: 0 0 2rem 0;
+}
+
+.textbox {
+	padding: 20vh 0 20vh 30vh;
+}
+
+.email-address-field {
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+}
+
+.email-address-field textarea {
+	font-family: "Montserrat";
+	width: 75%;
+	border-radius: 0.5rem;
+	padding: 0.5rem;
+	font-size: 1.2rem;
+	height: 1.6rem;
+	resize: none;
+}
+
+.email-address-field button {
+	font-family: "Montserrat";
+	font-size: 1.2rem;
+	width: 20%;
+	border-radius: 0.5rem;
+	border: none;
+	background-color: #b2145b;
+	color: white;
+}
+
+button:hover {
+	cursor: pointer;
+}
+
+img {
+	height: 60vh;
+	padding: 20vh 30vh 20vh 0;
+}
