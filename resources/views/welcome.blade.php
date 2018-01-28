@@ -19,6 +19,5 @@
             <button>Sign Up</button>
         </div>
     </div>
-    <img src="{{ asset('img/product.png') }}">
 </div>
 @endsection
