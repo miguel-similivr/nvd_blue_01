@@ -52,18 +52,17 @@
 			<p>Sign up for our mailing list and we'll keep you up to date.</p>
 
 			<!-- Begin MailChimp Signup Form -->
-			<!--
 			<div id="mc_embed_signup" class="email-address-field">
 				<form action="https://ottorepairs.us17.list-manage.com/subscribe/post?u=c28634d5f6c5aa61ec78ac129&amp;id=31e9d029a5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate stretch" target="_blank" novalidate>
 				    <div id="mc_embed_signup_scroll">
 					<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email Address" required>
-				    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups
+				    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
 				    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_c28634d5f6c5aa61ec78ac129_31e9d029a5" tabindex="-1" value=""></div>
 				    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
 				    </div>
 				</form>
 			</div>
-			-->
+
 			<!--End mc_embed_signup-->
 
 		</div>
