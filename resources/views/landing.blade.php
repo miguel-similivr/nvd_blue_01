@@ -18,7 +18,7 @@
 			<div class="textbox">
 				<h1>We worry about your car problems so you don't have to. </h1>
 				<p>Less time in the shop and more time on the road. </p>
-				<button href="/#section-5">Sign Up</button>
+				<button href="#section-5" onClick="document.getElementById('section-5').scrollIntoView();">Subscribe</button>
 			</div>
 		</div>
 	</div>
@@ -26,7 +26,7 @@
 		<div class="page-section-content">
 			<div class="textbox">
 				<h1>Personalized car service <br/> right at your doorstep. </h1>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a pharetra metus. Praesent metus odio, luctus et urna non, eleifend rhoncus nisi. Nullam ornare tincidunt interdum. Praesent venenatis laoreet lorem. Nam at velit nec lacus interdum accumsan. Ut velit dolor, blandit non elementum et, faucibus nec augue. Pellentesque imperdiet justo ut orci blandit tempus. Mauris pharetra urna nec diam vehicula, id suscipit lectus feugiat. Duis sit amet commodo tortor.</p>
+				<p>No need to drive all the way to a shop to get your car fixed. At Otto, we send the car repair service to you. Choose from our qualified partner mechanics, and they'll drive to you to get your car fixed.</p>
 			</div>
 		</div>
 	</div>
@@ -34,7 +34,7 @@
 		<div class="page-section-content">
 			<div class="textbox">
 				<h1>One price, no worries.</h1>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a pharetra metus. Praesent metus odio, luctus et urna non, eleifend rhoncus nisi. Nullam ornare tincidunt interdum. Praesent venenatis laoreet lorem. Nam at velit nec lacus interdum accumsan. Ut velit dolor, blandit non elementum et, faucibus nec augue. Pellentesque imperdiet justo ut orci blandit tempus. Mauris pharetra urna nec diam vehicula, id suscipit lectus feugiat. Duis sit amet commodo tortor.</p>
+				<p>Stressed out about comparing multiple quotes? At Otto, we give you one price that you can trust. </p>
 			</div>
 		</div>
 	</div>
@@ -50,10 +50,22 @@
 		<div class="page-section-content">
 			<h1>Ready for a test drive?</h1>
 			<p>Sign up for our mailing list and we'll keep you up to date.</p>
-			<div class="email-address-field">
-				<textarea placeholder="Enter your email address"></textarea>
-				<button>Sign Up</button>
+
+			<!-- Begin MailChimp Signup Form -->
+			<!--
+			<div id="mc_embed_signup" class="email-address-field">
+				<form action="https://ottorepairs.us17.list-manage.com/subscribe/post?u=c28634d5f6c5aa61ec78ac129&amp;id=31e9d029a5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate stretch" target="_blank" novalidate>
+				    <div id="mc_embed_signup_scroll">
+					<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email Address" required>
+				    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups
+				    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_c28634d5f6c5aa61ec78ac129_31e9d029a5" tabindex="-1" value=""></div>
+				    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+				    </div>
+				</form>
 			</div>
+			-->
+			<!--End mc_embed_signup-->
+
 		</div>
 	</div>
 	<footer>

@@ -42,7 +42,7 @@ p {
 	margin: auto;
 }
 
-#section-5 textarea {
+.email {
 	font-family: "Montserrat";
 	width: 75%;
 	border-radius: 2rem;
@@ -55,6 +55,32 @@ p {
 	outline: none;
 	border: none;
 	color: #b40068;
+}
+
+.stretch {
+	width: 100%;
+}
+
+.button {
+	font-family: "Montserrat";
+	font-size: 1rem;
+	font-weight: 500;
+	width: 9rem;
+	border-radius: 3rem;
+	color: #b40068;
+	background-color: white;
+	border: none;
+	height: 3rem;
+	outline: none;
+	-webkit-transition: background-color 0.5s, color 0.5s, border 0.5s;
+}
+
+.button:hover {
+	cursor: pointer;
+	background-color: #980058;
+	color: white;
+	border: 2px solid transparent;
+	-webkit-transition: background-color 0.5s, color 0.5s, border 0.5s;
 }
 
 button {
