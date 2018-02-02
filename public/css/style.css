@@ -72,6 +72,7 @@ p {
 	border: none;
 	height: 3rem;
 	outline: none;
+	margin-top: 1rem;
 	-webkit-transition: background-color 0.5s, color 0.5s, border 0.5s;
 }
 
@@ -117,6 +118,10 @@ button:hover {
 	height: 5rem;
 	width: 5rem;
 	margin: 1rem 0 0 2rem;
+}
+
+.input-group {
+	margin-top: 2rem;
 }
 
 #section-1 {
